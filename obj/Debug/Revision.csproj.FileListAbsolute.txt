@@ -1,0 +1,7 @@
+F:\GlobalLogicBatch1\Revision\bin\Debug\Revision.exe.config
+F:\GlobalLogicBatch1\Revision\bin\Debug\Revision.exe
+F:\GlobalLogicBatch1\Revision\bin\Debug\Revision.pdb
+F:\GlobalLogicBatch1\Revision\obj\Debug\Revision.csproj.AssemblyReference.cache
+F:\GlobalLogicBatch1\Revision\obj\Debug\Revision.csproj.CoreCompileInputs.cache
+F:\GlobalLogicBatch1\Revision\obj\Debug\Revision.exe
+F:\GlobalLogicBatch1\Revision\obj\Debug\Revision.pdb
